@@ -1,7 +1,8 @@
 # VideoGame-ArtPick
 
 Este videojuego consiste en Gustaf, un fontanero encargado de salvar las reliquias antes de que llegue la guerra.
-Encuentranos con el link: https://www.instagram.com/artpick2022/
+# Encuentranos con el link: 
+https://www.instagram.com/artpick2022/
 
 <br>
 
